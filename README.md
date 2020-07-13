@@ -20,3 +20,4 @@ For building local RPMs you can use (tito)[https://github.com/dgoodwin/tito]
 
     tito build --test --rpm
 
+# 4diac-forte-1.22
